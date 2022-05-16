@@ -17,7 +17,7 @@
 </script>
 </head>
 <body>
-
+<h1>Hello world</h1>
 <div id="templatemo_header_panel">
     	<div id="templatemo_title_section">
 				<h1 style="font-size:35px;font-weight: bold; color: #000;;  text-shadow:#fff 1px 3px 3px; padding-bottom:5px; padding-top:0px; vertical-align:top; "><b>Shyampur Siddheswari Mahavidyalaya </b></h1><br>
